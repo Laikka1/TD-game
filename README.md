@@ -1,2 +1,4 @@
 # TD-game
-Tower defence game with python
+Tower defence game using only python. 
+Main library used for the game was PyQt.
+See doc for more info.
