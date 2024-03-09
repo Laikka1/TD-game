@@ -1,0 +1,91 @@
+{
+    "num_of_waves": [7],
+    "easy": [
+        {
+            "wave":1,
+            "red":4,
+            "yellow": 0,
+            "gray": 0
+        },
+        {
+            "wave":2,
+            "red":10,
+            "yellow":2,
+            "gray": 0
+        },
+        {
+            "wave":3,
+            "red":10,
+            "yellow": 7,
+            "gray": 0
+        },
+        {
+            "wave": 4,
+            "red": 14,
+            "yellow": 10,
+            "gray": 1
+        },
+        {
+            "wave":5,
+            "red":5,
+            "yellow": 20,
+            "gray": 0
+        },
+        {
+            "wave":6,
+            "red":15,
+            "yellow": 13,
+            "gray": 3
+        },
+        {
+            "wave":6,
+            "red":20,
+            "yellow": 20,
+            "gray": 5
+        }
+    ],
+    "hard": [
+        {
+            "wave":1,
+            "red":5,
+            "yellow": 0,
+            "gray": 0
+        },
+        {
+            "wave":2,
+            "red":10,
+            "yellow":2,
+            "gray": 0
+        },
+        {
+            "wave":3,
+            "red":10,
+            "yellow": 5,
+            "gray": 1
+        },
+        {
+            "wave":4,
+            "red":20,
+            "yellow": 30,
+            "gray": 1
+        },
+        {
+            "wave":5,
+            "red":10,
+            "yellow": 30,
+            "gray": 3
+        },
+        {
+            "wave":6,
+            "red":3,
+            "yellow": 35,
+            "gray": 5
+        },
+        {
+            "wave":6,
+            "red":25,
+            "yellow": 35,
+            "gray": 10
+        }
+    ]
+}

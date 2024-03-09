@@ -1,0 +1,15 @@
+Ohje uusien json tiedostojen luomiseen / muokkaamiseen
+
+wave.json
+	jokaisella tasolla on oma osansa, ja sen näkee wave kohdasta. tätä tietoa ei käytetä itse koodissa , mutta selkeyttää
+	kierrokselle saa lisää vihollisia muuttamalaa numeroa tietyn vihollisen kohdalla
+	jokaisella vihollisella on oltava numero jos niitä ei haluta ollenkaan laita 0
+	huolehdi että tasoja on sama määrä kuin mitä lukee num_of_names kohdassa
+	
+path.json 
+	koordinaatit tiedostossa kuvastavat ruutuja käyttöliittymässä.
+	ruutujen on oltava vierekkäisiä, ja polku ei voi mennä itsensä yli.
+	kun luot polun lisää alkuun yksi ylimääräinen ruutu kartan ulkopuolelle, ja 3 ylimääräistä loppuun myös kartan ulkopuolelle.
+	jos luot uuden path tiedoston pitää se käydä muuttamassa myös koodiin.
+		tiedostoon menu_window.py rivi 60 ja 68 lisää näihin oma json tiedoston nimi path_1.json tilalle.
+		tämän jälkeen kun ajat löytyy oma karttasi vasemmanpuoleisen kartan tilalta. napin kuvassa on yhä vanha kartta.
