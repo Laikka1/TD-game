@@ -19,7 +19,7 @@ The game mechanics include placing towers, managing resources, and surviving wav
 - Basic game mechanics with scoring
 - UI built with PyQt
 
-(*See `/doc` folder for more design details — note some documentation is in Finnish.*)
+(*See `/doc` folder for more design details — documentation is in Finnish.*)
 
 ---
 
